@@ -16,7 +16,6 @@ describe('Car', function() {
   });
 
   it("uses gas when driving", function() {
-    // formula for how gas used is miles / mpg
     var car = new Car(10);
     car.fill(10);
     expect(car.gallons).toEqual(10);
