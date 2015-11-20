@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CarTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2015-11-20T18:42:16" hostname="Akyunas-MacBook-Air.local" time="0.007">
+<testsuite name="CarTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2015-11-20T18:45:29" hostname="Akyunas-MacBook-Air.local" time="0.002">
   <properties/>
-  <testcase name="ShouldFillWithGas" classname="CarTest" time="0.004"/>
+  <testcase name="ShouldFillWithGas" classname="CarTest" time="0.001"/>
   <testcase name="ShouldIncrementOdometerWhenDriving" classname="CarTest" time="0.0"/>
-  <testcase name="ShouldRecordTripsWhenDriving" classname="CarTest" time="0.001"/>
-  <testcase name="ShouldUseGasWhenDriving" classname="CarTest" time="0.001"/>
-  <system-out><![CDATA[[]
-[50 miles, 25 miles]
-]]></system-out>
+  <testcase name="ShouldRecordTripsWhenDriving" classname="CarTest" time="0.0"/>
+  <testcase name="ShouldUseGasWhenDriving" classname="CarTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
