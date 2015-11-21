@@ -4,7 +4,7 @@ Translate Javascript tests into Java
 If you don't have Java or gradle installed:
 
 
-1. Install [Java8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
+1. Install Java here: [Java8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 To confirm, run `java -version`. The computer should display `java version "1.8.0_XX".
 
 2. Install [Gradle](http://www.gradle.org/) using `brew update` then `brew install gradle`. 
