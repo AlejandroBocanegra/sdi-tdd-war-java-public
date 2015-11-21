@@ -21,4 +21,5 @@ To confirm, run `gradle -version`. The computer should display `Gradle 2.XX`.
 * Translate the solutions for Javascript into Java
 * Within the root of the Java folder run:      
 * gradle test
+
   To test your results
