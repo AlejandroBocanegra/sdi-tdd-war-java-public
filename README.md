@@ -12,6 +12,7 @@ To confirm, run `gradle -version`. The computer should display `Gradle 2.XX`.
 
 
 #Objectives
+
 * Review Javascript Cars tests and solutions
 * cd into javascript/cars then:
 * Run jasmine to confirm the tests are passing
