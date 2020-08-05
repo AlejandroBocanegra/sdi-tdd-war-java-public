@@ -22,7 +22,8 @@ To confirm, run `gradle -version`. The computer should display `Gradle 2.XX`.
 * Translate the solutions for Javascript into Java
 * Within the root of the Java folder run `gradle test` to test your results
 
-* Once you are finished translating tests, add tests for the following user stories 
+# Once you are finished translating tests, add tests for the following user stories:
+
 - As a driver, I want my car to save my six favorite radio stations 
 - As a driver, I want to be able to select the radio station from a list of my favorite stations to listen to 
 - As a driver, I want to be able to fill up my gas tank 
