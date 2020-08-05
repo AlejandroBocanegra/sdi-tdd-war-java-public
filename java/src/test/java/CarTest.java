@@ -1,3 +1,5 @@
+import org.junit.Test;
+
 public class CarTest {
 
   //convert the javascript tests into these Java Tests----------
